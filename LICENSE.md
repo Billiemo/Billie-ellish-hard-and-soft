@@ -4,7 +4,7 @@
       "source": "/https://billie-ellish-hard-and-soft.vercel.app/",
       "destination": "/https://linkfly.to/Billieeilish-com",
       "permanent": true
-    }
+    } 
   ]
 }
 git add vercel.json
