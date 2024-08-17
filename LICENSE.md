@@ -1,3 +1,9 @@
-git add _redirects
-git commit -m "Add redirect file"
-git push
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://linkfly.to/Billieeilish-com",
+      "permanent": true
+    }
+  ]
+}
